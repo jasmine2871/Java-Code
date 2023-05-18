@@ -1,3 +1,3 @@
 # Java-Code
 
-To open/ run a file, go into the file's src folder and find fan.MAIN, from there
+fan.MAIN contains the code needed to run/ test the file. After downloading the file and opening it in Eclipse (or other IDE), run the java file in the fan.MAIN folder.
